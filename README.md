@@ -1,3 +1,3 @@
 # git-gitrepo
 
-this is for tutorial purpose 
+This is for tutorial purpose 
