@@ -1,3 +1,6 @@
+To update local repo after updating in git online repo just use 
+"$ git pull"
+
 How to add new files::
 
 use "$ git status" to see which new file is added
