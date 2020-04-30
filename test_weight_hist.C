@@ -1,6 +1,7 @@
 void test_weight_hist(){
-
+  
   // test this comment in the local repo
+  //test from local to git
   TH1D *hist = new TH1D("hist","hist",10,0,10);
 
   Double_t x;
