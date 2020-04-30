@@ -1,3 +1,7 @@
+If you have added a new file use "git status"
+then "git add filename"
+then "git commit -m "messege note here"
+
 after making changes in loclal file do the following step:::
 
 1. 
