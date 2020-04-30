@@ -1,3 +1,5 @@
+I AM MAKING CHANGES IN NEW BRANCH(name-of-branch) NOT THE MASTER ONE
+
 To update local repo after updating in git online repo just use 
 "$ git pull"
 
