@@ -1,5 +1,8 @@
 I AM MAKING CHANGES IN NEW BRANCH(name-of-branch) NOT THE MASTER ONE
 
+to go to any branch "git checkout <branch name>"
+
+
 To update local repo after updating in git online repo just use 
 "$ git pull"
 
