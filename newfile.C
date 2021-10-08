@@ -13,6 +13,6 @@ void test_weight_hist(){
   
     hist->Draw("e");
     cout<<hist->Integral()<<endl;
-    
+    cout<<" i have made an update on october 8, 2021 "<<endl;    
 
 }
